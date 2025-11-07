@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page 
+<title>Page Title</title>
 </head>
 <body>
 <h1>Encryption</h1>
